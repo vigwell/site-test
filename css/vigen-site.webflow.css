@@ -561,13 +561,13 @@ figcaption {
   background-image: none;
 }
 
-.intro-content {
+.intro-content1 {
   width: 70%;
   max-width: 1140px;
   text-align: center;
 }
 
-.intro-content.cc-homepage {
+.intro-content1.cc-homepage {
   margin: 134px auto 20px;
 }
 
@@ -2049,7 +2049,7 @@ figcaption {
     padding-right: 30px;
   }
 
-  .intro-content {
+  .intro-content1 {
     width: 80%;
   }
 
@@ -2226,7 +2226,7 @@ figcaption {
     padding-right: 15px;
   }
 
-  .intro-content.cc-homepage {
+  .intro-content1.cc-homepage {
     flex-direction: column;
     justify-content: center;
     align-items: center;
